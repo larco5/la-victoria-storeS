@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   
+    <title>BOTAS CATALOGO Y PRECIOS </title>
+</head>
+<U><h1> CATALOGO Y PRECIOS BOTAS </h1> </U>
+<body>
+    <HR>
+    <UL>
+        <LI> BOTAS DE MUJER <u>$500</u> </LI>
+<img src="../FOTOS/BOTAS 1.jpg">
+        <LI> BOTAS DE HOMBRE <u>$800</u></LI>
+<IMG src="../FOTOS/BOTAS 2.jpg">
+         <LI> BOTAS DEL PATRON <u>1,000</u></LI>
+         <img src="../FOTOS/BOTAS DEL JEFE.jpg">
+    </UL>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
